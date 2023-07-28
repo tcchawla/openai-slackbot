@@ -36,6 +36,6 @@ Now, we can use the token from *Step 6* to initialize the Slack Handler in Minds
 
 ## Usage
 
-Please head over to the `queries.sql` file. You can directly execute the commands mentioned in that file to interact with your Slack Channel.
+Please head over to the [`queries.sql`](https://github.com/tcchawla/openai-slackbot/blob/main/queries.sql) file. You can directly execute the commands mentioned in that file to interact with your Slack Channel.
 
 Enjoy!
