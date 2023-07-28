@@ -5,7 +5,7 @@ CREATE DATABASE slack_api
 WITH
   ENGINE = 'slack',
   PARAMETERS = {
-      "token": "xoxb-5180137616898-5646738410677-Q6q1PMm1qFGEiTSuHUmfVhFz"
+      "token": "<slack-bot-token>"
     };
 
 -- Retrieve the entire conversation history in the channel where you have authenticated the bot
